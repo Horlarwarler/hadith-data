@@ -1,0 +1,16 @@
+{
+  "iosUpdateInfo": {
+    "version": 1,
+    "versionName": "1.0.0",
+    "forceUpdate": false,
+    "updateInfo": null
+  },
+  "androidUpdateInfo": {
+    "version": 2,
+    "versionName": "1.0.0",
+    "forceUpdate": false,
+    "updateInfo": null
+  },
+  "hadith_updated_version": 2,
+  "releaseDate": "2026-11-09"
+}
