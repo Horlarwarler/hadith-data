@@ -1,0 +1,7 @@
+*
+!.gitignore
+!data/
+data/*
+
+!data/hadith.json
+!data/hadith_config.json
