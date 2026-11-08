@@ -3,5 +3,5 @@
 !data/
 data/*
 
-!data/hadith.json
+!data/hadiths.json
 !data/hadith_config.json
